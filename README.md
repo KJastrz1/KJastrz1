@@ -3,7 +3,7 @@
 <h3 align="center">I am a student of Applied Computer Science at the Warsaw University of Technology.</h3>
 
 ### :link: Contact me:
-  <a href="www.linkedin.com/in/krzysztof-jastrzebski-7a635630a/">
+  <a href="https://www.linkedin.com/in/krzysztof-jastrzebski-7a635630a/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40" />
     </a>
 
